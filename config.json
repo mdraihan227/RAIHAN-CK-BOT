@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "Ew'r Raihan",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -11,7 +11,7 @@
   "EMAIL": "your email",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "⎯⎯⃝Rᴀɪʜᴀɴ ⸙⋆√★️𝆺𝅥⃝💜༏ GF★️𝆺𝅥⃝💜༏",
+  "BOTNAME": "⎯⎯⃝Rᴀɪʜᴀɴ ⸙⋆√★️𝆺𝅥⃝💜༏ Bot★️𝆺𝅥⃝💜༏",
   "PREFIX": "!",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
@@ -20,7 +20,7 @@
     "61573458734991",
     "61573458734991"
   ],
-  "NDH": ["100001039692046"],
+  "NDH": ["61573458734991"],
   "adminOnly": false,
   "ndhOnly": false,
   "adminPaOnly": false,
